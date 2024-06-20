@@ -10,7 +10,7 @@ def connect_to_database():
             host='localhost',
             database='prudhvi',
             user='root',
-            password='Raj$143855'
+            password='Raj$14385'
         )
         print("Connected to the database successfully.")
     except Error as e:
